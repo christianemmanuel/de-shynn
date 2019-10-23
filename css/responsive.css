@@ -460,7 +460,7 @@
   line-height: 69px;
 }
 .mean-container a.meanmenu-reveal {
-  margin-top: -35px;
+  margin-top: -47px;
 }
 .sticky__header.scroll-header .mean-container .mean-bar {
   min-height: 6px;
@@ -1171,7 +1171,7 @@ blockquote::before {
   max-width: inherit;
 }
 .menu-extra {
-  margin-right: 40px;
+  margin-right: 70px;
 }
 .sticky__header.scroll-header {
   position: inherit;
