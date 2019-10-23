@@ -174,3 +174,68 @@
   margin: 30px 0;
   max-width: 250px;
 }
+@media only screen and (max-width: 991px) {
+  .ht__bradcaump__area {
+      margin-top: 107px !important;
+  }
+  .menu-extra {
+      margin-right: 75px !important;
+  }
+  .logo img {
+      max-width: 90px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .container {
+      max-width: 1140px !important;
+      width: auto !important;
+      padding-right: 35px;
+      padding-left: 35px;
+  }
+  .mean-container a.meanmenu-reveal {
+      margin-top: -44px;
+  }
+  .htc__product__home .pro__detl__title h2 {
+      font-size: 22px;
+  }
+  .htc__product__home .pro__dtl__prize li {
+      color: #c97125;
+      font-size: 25px;
+  }
+  .htc__product__home .pro__dtl__prize {
+      margin-bottom: 20px;
+      margin-top: 25px;
+  }
+  .htc__product__home .pro__dtl__btn {
+      display: block;
+  }
+  .htc__product__home .pro__dtl__btn li {
+      margin-left: 0;
+      margin-bottom: 10px;
+  }
+  .pro__dtl__btn li.buy__now__btn a {
+      width: 100%;
+      display: block;
+  }
+  .htc__product__details .pro__dtl__btn {
+      display: block;
+  }
+  .htc__product__details.pt--120 {
+      padding-top: 80px;
+  }
+  .white-tomato-benefits-list ul li {
+    font-size: 14px;
+    line-height: 2.3em;
+  }
+  .htc__product__benefits .col-md-12:first-child img{
+    display: none;
+  }
+  .htc__product__benefits .mt--50 {
+    margin-top: 20px;
+  }
+}
+
+.mean-container .mean-nav {
+  background-color: #c97125;
+}
